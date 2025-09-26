@@ -70,5 +70,13 @@ Aşağıdaki örnek modelin tahmin çıktısını göstermektedir:
 - Veri artırma (augmentation) yöntemlerini genişletme  
 - Modeli web arayüzü veya mobil uygulamaya deploy etme  
 
+---
+## 💻 Nasıl Çalıştırılır
+
+```bash
+git clone https://github.com/berkekarakanli/Cat-Dog-Classifier.git
+pip install -r requirements.txt
+jupyter notebook cat-dog.ipynb
+
 
 
